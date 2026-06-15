@@ -5,6 +5,7 @@ pandas
 numpy
 Pillow
 matplotlib
+seaborn
 opencv-python-headless
 streamlit-webrtc
 av
